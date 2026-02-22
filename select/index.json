@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hello, Goodbye (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-22T02:38:38.626868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello, Goodbye - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Hello,_Goodbye_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hello, Goodbye - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Hello,_Goodbye_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello, Goodbye [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Hello,_Goodbye_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Hello,_Goodbye_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Hello,_Goodbye_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Hello,_Goodbye_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Hello,_Goodbye_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello, Goodbye - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Hello,_Goodbye_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Hello,_Goodbye_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Hello,_Goodbye_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello, Goodbye - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Hello,_Goodbye_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello, Goodbye - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Hello,_Goodbye_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Hello,_Goodbye_(remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Hello,_Goodbye_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles;Al Sirkett",
+      "has_synced": true,
+      "path": "select/15_Hello,_Goodbye_(Remastered_2015)_The_Beatles;Al_Sirkett.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hello, Goodbye (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Hello,_Goodbye_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hello Goodbye (Remastered 2003)",
+      "artist": "Culture Club",
+      "has_synced": false,
+      "path": "select/17_Hello_Goodbye_(Remastered_2003)_Culture_Club.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello, Goodbye",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Hello,_Goodbye_The_Beatles.txt"
+    }
+  ]
+}
